@@ -16,7 +16,7 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 ## Connect with me:
 <p align="left">
-<a href = "https://codepen.io/somenath203/"><img src="https://img.icons8.com/fluent/48/000000/codepen.png"/></a>
+<a href = "https://codepen.io/somenath203/"><img src="https://img.icons8.com/fluent/48/000000/CodePen.png"/></a>
 <br/>
   
 <h3 align="left">Top Languages:</h3>
