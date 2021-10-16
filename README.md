@@ -24,4 +24,3 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <a href="https://github.com/somenath203/github-readme-activity-graph"><img alt="Somenath Choudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=somenath203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-
