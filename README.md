@@ -14,10 +14,10 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 <br/>
 
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://codepen.io/somenath203/"><img src="https://img.icons8.com/fluent/48/000000/CodePen.png"/></a>
-<br/>
+<a href="https://codepen.io/somenath203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somenath203" height="30" width="40" /></a>
+</p>
   
 <h3 align="left">Top Languages:</h3>
 <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
