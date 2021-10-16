@@ -16,7 +16,12 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somenath203)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 
