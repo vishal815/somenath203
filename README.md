@@ -14,14 +14,13 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 <br/>
 <h3 align="left">Connect With Me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/somenath203)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/somenath203)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/somenath203)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/somenath203)  
 
 
 <br/>
 <h3 align="left">Top Languages:</h3>
 
-  <br/>
-    <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
