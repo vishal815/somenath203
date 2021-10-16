@@ -1,5 +1,3 @@
-<!-- 
-<h1 align="center">Hi <img src="https://github.com/somenath203/somenath203/blob/main/standard.gif" width="30px">I'm Somenath Choudhury</h1> -->
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/somenath203/somenath203/blob/main/standard.gif" height="175px"/></a>
 
