@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Somenath Choudhury
-![](https://github.com/somenath203/somenath203/blob/main/Somenath%20choudhury.png)
+![](https://github.com/somenath203/somenath203/blob/main/profilepic.png)
 
 I am passionate coder who always loves to learn and explore different aspects of various programming languages. I really enjoy learning different programming languages like C++, Python, Javascript, JAVA, frameworks like Node-Js, React and I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network).
 
