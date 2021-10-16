@@ -5,7 +5,6 @@ I am passionate coder who always loves to learn and explore different aspects of
 
 Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mongoDB
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript, Node-Js, React, MongoDB, Ml, ANN 
 
 <h3 align="left">Languages and Tools:</h3>
