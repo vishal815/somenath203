@@ -18,7 +18,7 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <a href="https://codepen.io/somenath203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somenath203" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/somenathchoudhu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somenathchoudhu2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somenathchoudhury35/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somenathchoudhury35/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/DÁRK KÑÎGHT☣#9442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DÁRK KÑÎGHT☣#9442" height="30" width="40" /></a>
+<a href="https://discord.gg/DÁRK KÑÎGHT☣#9442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9442" height="30" width="40" /></a>
 </p>
   
 <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
