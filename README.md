@@ -23,15 +23,12 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenath203&theme=onedark" alt="somenath203" /></a> </p>
-
 <br/>
-
 <h3 align="left">Github Statistics:</h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=somenath203"></a>
 <a href="https://github.com/somenath203?tab=followers"><img src="https://img.shields.io/github/followers/somenath203?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://codepen.io/somenath203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somenath203" height="30" width="40" /></a>
