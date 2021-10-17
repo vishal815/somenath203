@@ -20,9 +20,7 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <a href="https://auth.geeksforgeeks.org/user/somenathchoudhury35/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somenathchoudhury35/profile" height="30" width="40" /></a>
 </p>
   
-<a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-  <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&locale=en" alt="somenath203" /></p>
 
