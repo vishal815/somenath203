@@ -27,10 +27,11 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=somenath203"></a>
 <a href="https://github.com/somenath203?tab=followers"><img src="https://img.shields.io/github/followers/somenath203?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/somenath203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somenath203" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/somenathchoudhu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somenathchoudhu2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/somenathchoudhury35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somenathchoudhury35" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somenathchoudhury35/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somenathchoudhury35/profile" height="30" width="40" /></a>
 </p>
 
