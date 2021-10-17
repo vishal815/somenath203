@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Somenath Choudhury</h1>
 
-## 🙋‍♂️ About Me
+<h3 align="left">🙋‍ About Me:</h3>
 I am passionate coder who always loves to learn and explore different aspects of various programming languages. I really enjoy learning different programming languages like C++, Python, Javascript, JAVA and frameworks like Node-Js, React and I also have a great interest in learning Ml(Machine Learning) and ANN(Artificial Neural network).
 
 Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mongoDB
@@ -31,12 +31,13 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenath203" alt="somenath203" /></a> </p>
 
-##  Views and Followers on Github
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=somenath203">
-</a>
-<a><img src="https://badges.pufler.dev/repos/somenath203" /></a>
-<a><img src="https://badges.pufler.dev/commits/monthly/somenath203" /></a>
-<a><img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/somenath203?label=Followers&style=social"></a> 
-<a><img src="https://img.shields.io/github/stars/somenath203?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"></a>
+<br/>
+
+<h3 align="left">Github Stats:</h3>
+![](https://komarev.com/ghpvc/?username=somenath203&color=blue)•
+<img src="https://badges.pufler.dev/repos/somenath203" />•
+<img src="https://badges.pufler.dev/commits/monthly/somenath203" />•
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/somenath203?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/somenath203?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> • 
+
 
