@@ -29,7 +29,7 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 <a href="https://github.com/somenath203/github-readme-activity-graph"><img alt="Somenath Choudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=somenath203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenath203&theme=onedark" alt="somenath203" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somenath203&theme=monokai" alt="somenath203" /></a> </p>
 
 <br/>
 
