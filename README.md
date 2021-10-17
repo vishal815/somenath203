@@ -24,7 +24,6 @@ Skills: C++ /Python / JS / Node-Js / React / scikit-learn / deep learning / mong
 
 <a href="https://github.com/somenath203/github-readme-stats"><img alt="Somenath Choudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somenath203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somenath203&show_icons=true&locale=en" alt="somenath203" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somenath203&" alt="somenath203" /></p>
 
